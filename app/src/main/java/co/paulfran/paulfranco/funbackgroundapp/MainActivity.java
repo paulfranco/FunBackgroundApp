@@ -11,7 +11,6 @@ import android.widget.ImageButton;
 import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
-
     private ConstraintLayout layout;
     private ImageButton button;
 
